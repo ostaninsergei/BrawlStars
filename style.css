@@ -1,0 +1,132 @@
+body { 
+    font-family: sans-serif; 
+    background-color: rgb(109, 109, 255); 
+    } 
+header { 
+    justify-content: space-between; 
+    padding: ; 
+    margin-bottom: 20px; 
+    background-color: black; 
+    } 
+
+
+
+h1 { 
+    text-align: center; 
+    color: black; 
+    font-size: 36px; 
+    margin-top: ; 
+    margin-bottom: ; 
+    color:red;
+    } 
+
+
+
+.article-but { 
+    text-decoration: none; 
+    background-color: #3914AF; 
+    color: black; 
+    font-size: 24px; 
+    text-align: center; 
+    padding: 10px 75px 10px 75px; 
+}
+
+footer { 
+    background-color: black;
+    height: 60px;
+    } 
+    
+.privet { 
+    float: right; 
+    }
+
+.logo1 {
+    width: 70px;
+    height: 57px;   
+}
+.kaka{
+    width: 301px;
+    height: 301px;
+}
+
+
+.gem {
+    width: 30px;
+    height: 30px;
+}
+
+.skin{
+    background-color: white;
+    margin: 50px;
+    text-align: center;
+    padding: 10px;
+
+}
+.brawl {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+h3 {
+    border: 3px solid #3914AF;
+    border-radius: 20px;
+    padding: 5px;
+}
+.akyla{
+    background-color: white;
+    margin: 20px;
+    text-align: center;
+    padding: 10px;
+
+}
+.q{
+    width: 350px;
+    height: 250px;
+}
+.m{
+    color: red;
+    margin: 350px;
+    margin-top:0px ;
+    margin-bottom: 0px;
+}
+.z{
+    background-color: white;
+    width: 350px;
+    height: 250px;
+
+}
+
+nav {
+    display: flex;
+    justify-content: space-around;
+   
+    border-radius: 20px;
+}
+
+a{
+    border: 2px solid white;
+    text-decoration: none;
+    border-radius: 20px;
+    font-size: 30px;
+    padding: 20px;
+}
+a{
+    color:rgb(255, 238, 0);
+    background-color: red;
+}
+
+.vid {
+    text-align: center;
+}
+.infop {
+    color: rgb(255, 238, 0);
+    border: 3px solid red;
+    font-size: 20px;
+    padding: 20px;
+    border-radius: 30px;
+}
+
+h4 {
+    color:rgb(255, 115, 0);
+    font-size: 30px;
+}
